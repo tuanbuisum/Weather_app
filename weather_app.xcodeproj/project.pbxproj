@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		842B7FBE22350068005666FD /* Weather Design Techmaster.sketch in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB222350068005666FD /* Weather Design Techmaster.sketch */; };
+		842B7FBF22350068005666FD /* Refresh@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB422350068005666FD /* Refresh@2x.png */; };
+		842B7FC022350068005666FD /* Refresh@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB522350068005666FD /* Refresh@3x.png */; };
+		842B7FC122350068005666FD /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB622350068005666FD /* location.png */; };
+		842B7FC222350068005666FD /* location@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB722350068005666FD /* location@3x.png */; };
+		842B7FC322350068005666FD /* location@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB822350068005666FD /* location@2x.png */; };
+		842B7FC422350068005666FD /* Refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FB922350068005666FD /* Refresh.png */; };
+		842B7FC522350068005666FD /* Blood.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FBB22350068005666FD /* Blood.png */; };
+		842B7FC622350068005666FD /* Moon.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FBC22350068005666FD /* Moon.png */; };
+		842B7FC722350068005666FD /* Sun.png in Resources */ = {isa = PBXBuildFile; fileRef = 842B7FBD22350068005666FD /* Sun.png */; };
 		84F414F52233EC4C00117ECA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F414F42233EC4C00117ECA /* AppDelegate.swift */; };
 		84F414F72233EC4C00117ECA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F414F62233EC4C00117ECA /* ViewController.swift */; };
 		84F414FA2233EC4C00117ECA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F414F82233EC4C00117ECA /* Main.storyboard */; };
@@ -34,6 +44,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		842B7FB222350068005666FD /* Weather Design Techmaster.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Weather Design Techmaster.sketch"; sourceTree = "<group>"; };
+		842B7FB422350068005666FD /* Refresh@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Refresh@2x.png"; sourceTree = "<group>"; };
+		842B7FB522350068005666FD /* Refresh@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Refresh@3x.png"; sourceTree = "<group>"; };
+		842B7FB622350068005666FD /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = location.png; sourceTree = "<group>"; };
+		842B7FB722350068005666FD /* location@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "location@3x.png"; sourceTree = "<group>"; };
+		842B7FB822350068005666FD /* location@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "location@2x.png"; sourceTree = "<group>"; };
+		842B7FB922350068005666FD /* Refresh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Refresh.png; sourceTree = "<group>"; };
+		842B7FBB22350068005666FD /* Blood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Blood.png; sourceTree = "<group>"; };
+		842B7FBC22350068005666FD /* Moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Moon.png; sourceTree = "<group>"; };
+		842B7FBD22350068005666FD /* Sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sun.png; sourceTree = "<group>"; };
 		84F414F12233EC4C00117ECA /* weather_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = weather_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F414F42233EC4C00117ECA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84F414F62233EC4C00117ECA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +94,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		842B7FB122350068005666FD /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				842B7FB222350068005666FD /* Weather Design Techmaster.sketch */,
+				842B7FB322350068005666FD /* Icon */,
+				842B7FBA22350068005666FD /* Background Images */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		842B7FB322350068005666FD /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				842B7FB422350068005666FD /* Refresh@2x.png */,
+				842B7FB522350068005666FD /* Refresh@3x.png */,
+				842B7FB622350068005666FD /* location.png */,
+				842B7FB722350068005666FD /* location@3x.png */,
+				842B7FB822350068005666FD /* location@2x.png */,
+				842B7FB922350068005666FD /* Refresh.png */,
+			);
+			path = Icon;
+			sourceTree = "<group>";
+		};
+		842B7FBA22350068005666FD /* Background Images */ = {
+			isa = PBXGroup;
+			children = (
+				842B7FBB22350068005666FD /* Blood.png */,
+				842B7FBC22350068005666FD /* Moon.png */,
+				842B7FBD22350068005666FD /* Sun.png */,
+			);
+			path = "Background Images";
+			sourceTree = "<group>";
+		};
 		84F414E82233EC4C00117ECA = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +154,7 @@
 				84F414F62233EC4C00117ECA /* ViewController.swift */,
 				84F414F82233EC4C00117ECA /* Main.storyboard */,
 				84F414FB2233EC4D00117ECA /* Assets.xcassets */,
+				842B7FB122350068005666FD /* Images */,
 				84F414FD2233EC4D00117ECA /* LaunchScreen.storyboard */,
 				84F415002233EC4D00117ECA /* Info.plist */,
 			);
@@ -229,9 +283,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				842B7FC622350068005666FD /* Moon.png in Resources */,
+				842B7FBE22350068005666FD /* Weather Design Techmaster.sketch in Resources */,
 				84F414FF2233EC4D00117ECA /* LaunchScreen.storyboard in Resources */,
 				84F414FC2233EC4D00117ECA /* Assets.xcassets in Resources */,
+				842B7FC322350068005666FD /* location@2x.png in Resources */,
+				842B7FC022350068005666FD /* Refresh@3x.png in Resources */,
+				842B7FC722350068005666FD /* Sun.png in Resources */,
+				842B7FC522350068005666FD /* Blood.png in Resources */,
+				842B7FC122350068005666FD /* location.png in Resources */,
+				842B7FBF22350068005666FD /* Refresh@2x.png in Resources */,
+				842B7FC222350068005666FD /* location@3x.png in Resources */,
 				84F414FA2233EC4C00117ECA /* Main.storyboard in Resources */,
+				842B7FC422350068005666FD /* Refresh.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
